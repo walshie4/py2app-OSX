@@ -5,5 +5,6 @@ echo "py2app-OSX helper running..."
 echo "Opening base launching script for editing. Please change 'FILE_NAME_HERE.py' to your main python files name"
 open py2app-OSX.scpt
 echo "Please export the script and save as type Application"
-echo "Then just zip with your python files and distribute your app"
+echo "Edit the setup.py script and fill the reqs array with your python scripts requirements"
+echo "Then just zip with your python files, setup.py script and distribute your app"
 
