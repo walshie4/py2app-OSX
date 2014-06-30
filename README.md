@@ -7,4 +7,8 @@ Quick and dirty script to make any .py script into an OS X executable .app
 1. `git clone https://github.com/walshie4/py2app-OSX.git`
 2. `cd py2app-OSX`
 3. `./run.sh` and follow the output directions
+    * Modify Applescript script
+    * Save as .app launcher
+    * Update reqs section of setup script
+    * Zip and distribute
 
